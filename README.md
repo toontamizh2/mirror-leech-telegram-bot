@@ -361,6 +361,5 @@ machine example.workers.dev password index_password
 Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of different hosts can be added each separated by a new line.
     
     
----------------------------------------------------------------------------------------------------------------------------------
-    
-**CREDITS - SOFFEX AND ME**
+## Credits
+SOFFEX AND ME**
