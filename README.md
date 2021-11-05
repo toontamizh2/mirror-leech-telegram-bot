@@ -362,4 +362,4 @@ Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of 
     
     
 ## Credits
-SOFFEX AND ME**
+**SOFFEX AND ME**
