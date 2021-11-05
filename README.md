@@ -359,6 +359,8 @@ For Index Link with only password without username, even http auth will not work
 machine example.workers.dev password index_password
 ```
 Where host is the name of extractor (eg. Youtube, Twitch). Multiple accounts of different hosts can be added each separated by a new line.
-
     
-CREDITS - SOFFEX AND ME
+    
+---------------------------------------------------------------------------------------------------------------------------------
+    
+**CREDITS - SOFFEX AND ME**
